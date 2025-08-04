@@ -1,8 +1,8 @@
 {
-  "name": "SENU-MD",
-  "description": "Javascript WhatsApp bot made by JESTER TECHX",
+  "name": "X-DEZER-WBOT",
+  "description": "X-DEZER- WhatsApp bot made by Tharindu",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["SENU-MD"],
+  "keywords": ["X-DEZER-WBOT"],
   "success_url": "/",
 
     "stack": "container",
@@ -91,14 +91,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "94788770020"
+      "value": "94786073208"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SENU-MD"
+      "value": "X-DEZER-WBOT"
 
       }, 
 
