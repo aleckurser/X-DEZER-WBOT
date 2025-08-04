@@ -1,12 +1,12 @@
 {
-  "name": "CAPTAIN_LEGEND-BOT",
+  "name": "X-DEZER-WBOT",
   "version": "4.5.0",
   "description": "A multi functional whatsapp bot.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CAPTAIN_LEGEND-BOT",
-    "stop": "pm2 stop CAPTAIN_LEGEND-BOT",
-    "restart": "pm2 restart CAPTAIN_LEGEND-BOT",
+    "start": "pm2 start index.js --deep-monitoring --attach --name X-DEZER-WBOT",
+    "stop": "pm2 stop X-DEZER-WBOT",
+    "restart": "pm2 restart X-DEZER-WBOT",
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
